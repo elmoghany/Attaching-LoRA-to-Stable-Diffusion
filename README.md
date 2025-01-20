@@ -1,4 +1,4 @@
-# Attaching controlNet into Stable Diffusion to finetune the model
+# Attaching LoRA into Stable Diffusion to finetune the model
 
 ## LoRA Architecture
 ![picture](LoRA-Data/LoRA-architecture.png)
@@ -10,6 +10,9 @@
 ### Before Finetuning
 ![picture](LoRA-Data/LoRA-naruto-blip/SDXL-Before-Training.png)
 
+### Dataset Sample
+![picture](LoRA-Data/LoRA-naruto-blip/Dataset-Images-Sample.png)
+
 ## LoRA Results
 ### After Finetuning with LoRA
 ![picture](LoRA-Data/LoRA-naruto-blip/After-LoRA.png)
@@ -20,6 +23,9 @@
 ## SDXL Results
 ### Before Finetuning
 ![picture](LoRA-Data/artistic-custom/SDXL-Before-Training.png)
+
+### Dataset Sample
+![picture](LoRA-Data/artistic-custom/Dataset-Images-Sample.png)
 
 ## LoRA Results
 ### After Finetuning with LoRA
