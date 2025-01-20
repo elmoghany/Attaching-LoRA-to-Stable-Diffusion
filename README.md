@@ -4,7 +4,7 @@
 1. [lambdalabs/naruto-blip-captions](https://huggingface.co/datasets/lambdalabs/naruto-blip-captions)
 2. [iamkaikai/CUBISM-ART](https://huggingface.co/datasets/iamkaikai/CUBISM-ART)
 
-## ControlNet Architecture
+## LoRA Architecture
 ![picture](LoRA-Data/LoRA-architecture.png)
 
 # Using Naruto Blip Dataset [1]
