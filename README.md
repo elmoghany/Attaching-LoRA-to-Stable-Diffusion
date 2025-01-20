@@ -1,13 +1,11 @@
 # Attaching controlNet into Stable Diffusion to finetune the model
 
-## Dataset used
-1. [lambdalabs/naruto-blip-captions](https://huggingface.co/datasets/lambdalabs/naruto-blip-captions)
-2. [iamkaikai/CUBISM-ART](https://huggingface.co/datasets/iamkaikai/CUBISM-ART)
-
 ## LoRA Architecture
 ![picture](LoRA-Data/LoRA-architecture.png)
 
-# Using Naruto Blip Dataset [1]
+# 1. Using Naruto Blip Dataset
+[lambdalabs/naruto-blip-captions](https://huggingface.co/datasets/lambdalabs/naruto-blip-captions)
+
 ## SDXL Results
 ### Before Finetuning
 ![picture](LoRA-Data/LoRA-naruto-blip/SDXL-Before-Training.png)
@@ -16,7 +14,9 @@
 ### After Finetuning with LoRA
 ![picture](LoRA-Data/LoRA-naruto-blip/After-LoRA.png)
 
-# Using Cubism Art Dataset [2]
+# 2. Using Cubism Art Dataset
+[iamkaikai/CUBISM-ART](https://huggingface.co/datasets/iamkaikai/CUBISM-ART)
+
 ## SDXL Results
 ### Before Finetuning
 ![picture](LoRA-Data/artistic-custom/SDXL-Before-Training.png)
